@@ -1,0 +1,8 @@
+./log/origin_checkpoint/bg/log_result_bg_5.30.txt
+mAP:94.75
+rank1:98.19999999999999
+rank5:98.9625
+rank10:99.075
+rank15:99.275
+rank20:99.4875
+rank25:99.5875

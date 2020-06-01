@@ -1,0 +1,14 @@
+./log/origin_checkpoint/nm/log_result_nm_5.30.txt
+mAP:97.53750000000001
+rank1:100.0
+rank5:100.0
+rank10:100.0
+rank20:100.0
+./log/origin_checkpoint/nm/log_result_nm_5.30.txt
+mAP:97.53750000000001
+rank1:100.0
+rank5:100.0
+rank10:100.0
+rank15:100.0
+rank20:100.0
+rank25:100.0
